@@ -23,3 +23,5 @@
     * change directory to client cmd -  cd server
     * Install necessary modules  cmd -  npm Install
     * start client cmd -                npm start
+
+add .env file or replace mongoDB url in "server/index.js" PROCESS.ENV.DATABASE
